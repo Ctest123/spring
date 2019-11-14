@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>欢迎  ${account.name}</h1>
+	<h1>欢迎嘿嘿嘿  ${account.name}</h1>
 </body>
 </html>
